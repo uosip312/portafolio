@@ -1,0 +1,21 @@
+{
+    "equipo": [{
+        "frase": "Intenta hacer pequeños logros todos los días. Si lo haces así,  Imagínate lo que lograrás en un mes... Un año... Una vida...",
+        "nombre": "Edison de la Cruz",
+        "subtitulo": "Angular Dev",
+        "twitter": "@EdisonICR",
+        "url": "https://firebasestorage.googleapis.com/v0/b/eddportafolio.appspot.com/o/team-1.jpg?alt=media&token=98fcbb08-799e-47bd-bc96-12b85abc2167"
+    }, {
+        "frase": "Cuando la inspiración no me encuentra, hago medio camino para encontrarla.",
+        "nombre": "Melissa Pineda",
+        "subtitulo": "Master",
+        "twitter": "@Melissa",
+        "url": "https://firebasestorage.googleapis.com/v0/b/eddportafolio.appspot.com/o/team-2.jpg?alt=media&token=df78f309-492b-43e2-a511-a3559acc6a3b"
+    }, {
+        "frase": "No hay disposición de ánimo a la que no pueda el hombre aplicar la medicina oportuna con sólo alcanzar de sus estanterías un libro.",
+        "nombre": "Hernando Vallejo",
+        "subtitulo": "Licenciado",
+        "twitter": "@nandovallejo",
+        "url": "https://firebasestorage.googleapis.com/v0/b/eddportafolio.appspot.com/o/team-3.jpg?alt=media&token=65187bb2-8b7b-4a40-9430-6271985cafd1"
+    }]
+}
